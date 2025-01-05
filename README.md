@@ -13,7 +13,7 @@ type Defaulter interface {
 ## Installation
 
 ```bash
-go get github.com/superproj/protoc-gen-defaults
+go get github.com/onexstack/protoc-gen-defaults
 ```
 
 ## Usage
@@ -205,7 +205,7 @@ syntax = "proto3";
 
 package tests;
 
-option go_package = "github.com/superproj/protoc-gen-defaults/tests/pb;pb";
+option go_package = "github.com/onexstack/protoc-gen-defaults/tests/pb;pb";
 
 import "defaults/defaults.proto";
 
@@ -290,7 +290,7 @@ package main
 
 import (
 	pb "..."
-	"github.com/superproj/protoc-gen-defaults/defaults"
+	"github.com/onexstack/protoc-gen-defaults/defaults"
 )
 
 func main() {

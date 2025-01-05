@@ -23,7 +23,7 @@ import (
 	pgsgo "github.com/lyft/protoc-gen-star/lang/go"
 	"github.com/stretchr/testify/require"
 
-	"github.com/superproj/protoc-gen-defaults/module"
+	"github.com/onexstack/protoc-gen-defaults/module"
 )
 
 func TestDebugGen(t *testing.T) {

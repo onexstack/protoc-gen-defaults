@@ -1,4 +1,4 @@
-module github.com/superproj/protoc-gen-defaults
+module github.com/onexstack/protoc-gen-defaults
 
 go 1.16
 

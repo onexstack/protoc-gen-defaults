@@ -25,8 +25,8 @@ import (
 	"google.golang.org/protobuf/types/known/timestamppb"
 	"google.golang.org/protobuf/types/known/wrapperspb"
 
-	"github.com/superproj/protoc-gen-defaults/defaults"
-	"github.com/superproj/protoc-gen-defaults/tests/pb"
+	"github.com/onexstack/protoc-gen-defaults/defaults"
+	"github.com/onexstack/protoc-gen-defaults/tests/pb"
 )
 
 var (

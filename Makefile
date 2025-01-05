@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-MODULE = github.com/superproj/protoc-gen-defaults
+MODULE = github.com/onexstack/protoc-gen-defaults
 
 DEFAULTS_PROTO = defaults/defaults.proto
 
